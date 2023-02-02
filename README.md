@@ -5,4 +5,16 @@
 
 ### Screenshots
 
-!.[Home Page]. (https://github.com/TomasMos/tictactoe/blob/main/Home.PNG)
+!.[Home Page]. (https://raw.githubusercontent.com/TomasMos/tictactoe/main/Home.PNG)
+
+!.[Play as X]. (https://raw.githubusercontent.com/TomasMos/tictactoe/main/X_1.PNG)
+
+!.[Home Page]. ([https://github.com/TomasMos/tictactoe/blob/main/Home.PNG](https://raw.githubusercontent.com/TomasMos/tictactoe/main/Home.PNG))
+
+
+!.[Home Page]. ([https://github.com/TomasMos/tictactoe/blob/main/Home.PNG](https://raw.githubusercontent.com/TomasMos/tictactoe/main/Home.PNG))
+
+
+!.[Home Page]. ([https://github.com/TomasMos/tictactoe/blob/main/Home.PNG](https://raw.githubusercontent.com/TomasMos/tictactoe/main/Home.PNG))
+
+!.[Home Page]. ([https://github.com/TomasMos/tictactoe/blob/main/Home.PNG](https://raw.githubusercontent.com/TomasMos/tictactoe/main/Home.PNG))
