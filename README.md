@@ -5,8 +5,8 @@
 
 ### Screenshots
 
-!.[Home Page]. (https://raw.githubusercontent.com/TomasMos/tictactoe/main/Home.PNG)
+![Home Page](https://raw.githubusercontent.com/TomasMos/tictactoe/main/Home.PNG)
 
-!.[Play as X]. (https://raw.githubusercontent.com/TomasMos/tictactoe/main/X_1.PNG)
+![Play as X](https://raw.githubusercontent.com/TomasMos/tictactoe/main/X_1.PNG)
 
 
