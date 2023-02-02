@@ -9,4 +9,10 @@
 
 ![Play as X](https://raw.githubusercontent.com/TomasMos/tictactoe/main/X_1.PNG)
 
+![Make suboptimal moves, the AI will win](https://raw.githubusercontent.com/TomasMos/tictactoe/main/X_win.PNG)
 
+![Play as O](https://raw.githubusercontent.com/TomasMos/tictactoe/main/O_1.PNG)
+
+![The AI has cornered me with a catch-22](https://raw.githubusercontent.com/TomasMos/tictactoe/main/O_2.PNG)
+
+![The AI has won](https://raw.githubusercontent.com/TomasMos/tictactoe/main/O_win.PNG)
