@@ -5,4 +5,4 @@
 
 ### Screenshots
 
-!.[Home Page]. (https://github.com/TomasMos/tictactoe/blob/main/Home.PNG?raw=true)
+!.[Home Page]. (https://github.com/TomasMos/tictactoe/blob/main/Home.PNG)
