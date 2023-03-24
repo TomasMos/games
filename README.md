@@ -1,6 +1,6 @@
 # Tic-tac-toe
 
-## The algorithm employed is minimax with alpha-beta pruning (similar to Monte Carlo), to recursively iterate through all possible outcomes of each move. On the frontend, pygame is used to create the graphics and GUI. The backend enables a human to make moves and calculates the optimum move for an AI to play. 
+## The algorithm employed is minimax with alpha-beta pruning (similar to Monte Carlo), to recursively iterate through all possible outcomes of each move. On the frontend, pygame is used to create the GUI. The backend enables a human to make moves and calculates the optimum move for an AI to play. 
 
 
 ### Gamplay
